@@ -44,7 +44,7 @@ I am deeply interested in Machine Learning, Data Science, and AI. I love diving 
 ### 🏙️ Contribution City
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Commits" width="100%" />
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub Commits" width="100%" />
 </div>
 
 ---
