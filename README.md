@@ -18,15 +18,18 @@ I am deeply interested in Machine Learning, Data Science, and AI. I love diving 
 
 ### 🛠️ My Tech Stack
 
+### 🛠️ My Tech Stack
+
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,bash,django,flask,fastapi,mysql,gcp,docker,supabase,git,github,vscode,figma,photoshop,notion,obsidian&theme=dark&perline=10" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,bash,django,flask,fastapi,mysql,gcp,docker,supabase,windows,macos,git,github,vscode,figma,photoshop,notion,obsidian&theme=dark&perline=11" alt="Skill Icons" />
   </a>
 
   <br><br>
 
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
