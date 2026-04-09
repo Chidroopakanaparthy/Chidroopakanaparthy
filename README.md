@@ -41,17 +41,10 @@ I am deeply interested in Machine Learning, Data Science, and AI. I love diving 
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 🏙️ Contribution City
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chidroopakanaparthy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chidroopakanaparthy&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chidroopakanaparthy&bg_color=0d1117&color=58a6ff&line=388bfd&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Commits" width="100%" />
 </div>
 
 ---
