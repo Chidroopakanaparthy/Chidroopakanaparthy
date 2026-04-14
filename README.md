@@ -16,7 +16,7 @@ I am deeply interested in Machine Learning, Data Science, and AI. I love diving 
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 <div align="center">
 
@@ -42,7 +42,7 @@ I am deeply interested in Machine Learning, Data Science, and AI. I love diving 
 
 ---
 
-### 🏙️ Contribution City
+### Contribution City
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub Commits" width="100%" />
@@ -50,7 +50,7 @@ I am deeply interested in Machine Learning, Data Science, and AI. I love diving 
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <div align="left">
   <a href="mailto:chidroopak10@gmail.com">
