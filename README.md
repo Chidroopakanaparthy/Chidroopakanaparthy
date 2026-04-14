@@ -18,8 +18,6 @@ I am deeply interested in Machine Learning, Data Science, and AI. I love diving 
 
 ### 🛠️ My Tech Stack
 
-### 🛠️ My Tech Stack
-
 <div align="center">
 
   <a href="https://skillicons.dev">
