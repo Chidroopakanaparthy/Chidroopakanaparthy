@@ -10,9 +10,9 @@
 
 ### * About Me
 
-I am deeply interested in Machine Learning, Data Science, and AI. I love diving into complex data sets, building predictive models, and contributing to tools that other developers use.
+I work on ML and Data Science, but my real focus is on building things that actually get used. I’m into the whole process, from cleaning messy data to the final deployment. I build in the open because hard problems get solved faster together. When I’m away from my keyboard, I’m usually doing conceptual photography.
 
-* **Fun fact:** When I'm not tweaking hyperparameters, you can probably find me out shooting and editing photos in Lightroom for my next photography inspiration.
+It’s a different medium, but it’s the same goal: getting the small details right so the whole story makes sense.
 
 ---
 
