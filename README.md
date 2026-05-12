@@ -8,7 +8,7 @@
 
 ---
 
-### * About Me
+### About Me
 
 I work on ML and Data Science, but my real focus is on building things that actually get used. I’m into the whole process, from cleaning messy data to the final deployment. I build in the open because hard problems get solved faster together. When I’m away from my keyboard, I’m usually doing conceptual photography.
 
@@ -16,7 +16,7 @@ It’s a different medium, but it’s the same goal: getting the small details r
 
 ---
 
-### * My Tech Stack
+### My Tech Stack
 
 <div align="center">
 
@@ -42,7 +42,7 @@ It’s a different medium, but it’s the same goal: getting the small details r
 
 ---
 
-### * Contribution City
+### Contribution City
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub Commits" width="100%" />
@@ -50,7 +50,7 @@ It’s a different medium, but it’s the same goal: getting the small details r
 
 ---
 
-### * Connect with Me
+### Connect with Me
 
 <div align="left">
   <a href="mailto:chidroopak10@gmail.com">
