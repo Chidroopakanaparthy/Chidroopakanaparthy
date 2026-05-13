@@ -21,7 +21,7 @@ It’s a different medium, but it’s the same goal: getting the small details r
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,bash,django,flask,fastapi,mysql,gcp,docker,supabase,windows,macos,git,github,vscode,figma,photoshop,notion,obsidian&theme=dark&perline=11" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,bash,django,flask,fastapi,mysql,gcp,docker,supabase,windows,git,github,vscode,figma,photoshop,notion,obsidian&theme=dark&perline=11" alt="Skill Icons" />
   </a>
 
   <br><br>
