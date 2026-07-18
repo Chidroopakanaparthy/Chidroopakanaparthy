@@ -6,8 +6,6 @@
   </a>
 </div>
 
---- 
-
 ## About Me
 
 I'm a Computer Science undergrad working on the intersection of vision-language models, fairness, and adversarial robustness. I'm currently interning at DRDO's Scientific Analysis Group, where my work spans adversarial attacks on face verification pipelines and — more centrally right now — auditing whether open-weight VLMs produce demographically disparate hallucinations when explaining face verification decisions.
