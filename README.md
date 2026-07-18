@@ -61,7 +61,7 @@ Focus areas: VLM evaluation & explainability · adversarial robustness · fairne
 
 ---
 
-Contribution City
+## Contribution City
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub Commits" width="100%" />
