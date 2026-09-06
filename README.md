@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a Computer Science undergrad working on the intersection of vision-language models, fairness, and adversarial robustness. I'm currently interning at DRDO's Scientific Analysis Group, where my work spans adversarial attacks on face verification pipelines and — more centrally right now — auditing whether open-weight VLMs produce demographically disparate hallucinations when explaining face verification decisions.
+I'm a Computer Science undergrad working on the intersection of fairness, and adversarial robustness and model forensics. 
 
 I care about the gap between what models do and what they say they're doing — and I think that gap is where a lot of real-world AI harm hides. That's the thread connecting my current research: not "is the model accurate," but "is the model's explanation of itself honest, calibrated, and fair across groups."
 
